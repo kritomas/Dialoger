@@ -1,0 +1,5 @@
+Vytvořte datovou strukturu pro uložení dialogu ve hře. Dialog se skládá vždy s textu, který říká NPC a několika možných odpovědí, ze kterých si může vybrat hráč. Po některých odpovědích hráče dialog končí, na jiné reaguje NPC dalším textem, ke kterému má hráč opět možnost si vybrat jednu nebo více reakci 
+Vytvořte metody, které umožní uložit a načíst dialog ze souboru. Formát uložení si zvolte sami. 
+Dále napište metody, které umožní procházení libovolným dialogem. 
+Datovou strukturu pro práci s dialogem vytvořte tak, aby bylo možno tuto strukturu využít jak v konzolové aplikaci tak v herním engienu Unity.
+Všechny vaše třídy a metody řádně okomentujte a vygenerujte programátorskou dokumentaci.
